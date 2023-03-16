@@ -30,11 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [] <a name="about-project"></a>
+# 📖 [Trial Twor] <a name="about-project"></a>
 
-> Trial Twor is a personal website
-
-**[Trial Twor]** is a...
+**[Trial Twor]** is a personal website
 
 ## 🛠 Built With <a name="built-with"></a>
 
